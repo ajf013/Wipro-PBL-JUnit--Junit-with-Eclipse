@@ -6,10 +6,6 @@ Topics Covered
 
 Hands-on Assignments for Junit with Eclipse
 
-
-
-No. 	Hands-on Assignment 	Topics Covered 	Status
-
 1 	
 
  i)  Create the following class and implement the method to concatenate two strings and return the result,
